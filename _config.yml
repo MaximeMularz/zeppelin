@@ -15,12 +15,12 @@ googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Organizer Info
-organizerName: "GDG Hi Pic"
-organizerAlternateName: "Google Developer Group Hi Pic"
+organizerName: "GDG Lviv"
+organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "maxime.mularz@4planet.eu"
-organizerLogo: "http://devfest-valenciennes.appspot.com/img/logo_va_metropole.png"
-organizerLink: "http://gdg-hi-pic.appspot.com/"
+organizerEmail: "lviv@gdg.org.ua"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -51,8 +51,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "28 November 2014"
-typeoutTextValues: '" ", "Valenciennes", "Semaine Régionale de l\'innovation", "Nord Pas de Calais"'
+eventDate: "September - November, 2014"
+typeoutTextValues: '"", "Saison", "France", "Valenciennes", "Nord Pas de Calais"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -179,7 +179,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:maxime.mularz@4planet.eu", text: "maxime.mularz@4planet.eu"}
+   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
  -
   title: "FAQ"
   links:
