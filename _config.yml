@@ -52,7 +52,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
 eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Saison", "France", "Valenciennes", "Nord Pas de Calais"'
+typeoutTextValues: '"", "Saison", "France", "Valenciennes", "Nord"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -83,20 +83,20 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Transalley"
-eventLocationName: "Techno Pôle"
-eventLocationLink: "http://www.transalley.com/en/"
-eventStreetAddress: "D958"
-eventAddressLocality: "Famars"
-eventAddressLocalityRegion: "Nord"
-eventPostalCode: "59300"
-eventAddressCountry: "France"
-eventStartTime: "2014-11-28T10:00"
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Ukraine"
+eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-11-28T20:00"
-eventPlaceCoordinates: "50.320269, 3.514780"
-mapCenterCoordinates: "50.320269, 3.514780"
-mapMobileCenterCoordinates: "50.320269, 3.514780"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 venueBlockTitle: "Venue"
