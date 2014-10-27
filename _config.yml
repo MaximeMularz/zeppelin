@@ -5,25 +5,25 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "maxime.mularz@4planet.eu"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
+title: "GDG Hi Pic"
+email: "faubourgnumerique@gmail.com"
+description: "Faubourg Numérique organise une journée \"Services & Objets Connectés\" le 15 Octobre à Saint-Quentin."
+baseurl: "/gdg-intel"
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "GDG Hi Pic"
+organizerAlternateName: "Google Developer Group Hi Pic"
+organizerDescription: "La communauté des développeurs des technos Google en Haute Picardie."
+organizerEmail: "faubourgnumerique@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdg-hi-pic.appspot.com/"
 
-# Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+# Heads
+metaKeywords: "objets, gdg, connectes, google, programmation, android, wear, developers, picardie"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -36,33 +36,33 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ #- {permalink: "/", text: "Home"}
+ #- {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/speakers/", text: "Speakers"}
+ #- {permalink: "/team/", text: "Team"}
+ #- {permalink: "/logistics/", text: "Logistics"}
+ #- {permalink: "/hackathon/", text: "Hackathon"}
+#bottomNavigationLinks:
+ #- {link: "http://bit.ly/dfua-c4p", text: "Inscriptions"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.eventbrite.fr/e/billets-journee-systemes-objets-connectes-13025980057", text: "Inscriptions"}
 
 # Hero Block
-heroImage: "devfest_background.png"
-heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Saison", "France", "Valenciennes", "Nord"'
-typeoutFallback: "Season"
+heroImage: "hero.jpg"
+heroTitle: ""
+eventDate: "Picardie>Aisne>Saint-Quentin, 15 Octobre 2014"
+typeoutTextValues: '"Android Wear", "Intel NDK","Galileo","Fi-Ware"'
+typeoutFallback: "GDG"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# - {link: "http://bit.ly/dfua-c4p", text: "Inscriptions"}
+ - {permalink: "https://www.eventbrite.fr/e/billets-journee-systemes-objets-connectes-13025980057", text: "Inscriptions"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Journée \"Services & Objets Connectés\" "
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conférences", image: "conference.jpg", text: "Intel NDK" }
+ - {title: "Ateliers", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
@@ -74,38 +74,38 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Dernières news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 5
+rockstarSpeakersTitle: "Intervenants"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Transalley"
-eventLocationName: "Techno Pole"
-eventLocationLink: "http://www.transalley.com/en/"
-eventStreetAddress: "D958"
-eventAddressLocality: "Famars"
-eventAddressLocalityRegion: "Nord"
-eventPostalCode: "59300"
+locationBlockTitle: "Lieu"
+eventLocationName: "CCI de l'Aisne"
+eventLocationLink: "http://www.aisne.cci.fr/"
+eventStreetAddress: "83 Boulevard Jean Bouin"
+eventAddressLocality: "Saint-Quentin"
+eventAddressLocalityRegion: "Aisne"
+eventPostalCode: "02100"
 eventAddressCountry: "France"
-eventStartTime: "2014-10-28T10:00"
+eventStartTime: "2014-15-25T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-28T20:00"
-eventPlaceCoordinates: "50.320269, 3.514780"
-mapCenterCoordinates: "50.320269, 3.514780"
-mapMobileCenterCoordinates: "50.320269, 3.514780"
+eventEndTime: "2014-10-25T18:00"
+eventPlaceCoordinates: "49.850780, 3.309139"
+mapCenterCoordinates: "49.850780, 3.309139"
+mapMobileCenterCoordinates: "49.850780, 3.309139"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Localisation"
 venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
+venueSmallImage1: "cci-aisne-logo.gif"
+venueSmallImage2: "cci-aisne-1.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "CCI de l'Aisne"
+venueFeatures: ["3 salles de conférences", "proximité du centre ville"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -114,8 +114,8 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
+organizersTitle: "Organisateurs"
+partnersTitle: "Partenaires"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block

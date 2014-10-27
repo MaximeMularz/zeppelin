@@ -1,76 +1,133 @@
-<!-- Begin Post-->
-<section id="post-section" class="post-section">
-    <div class="content-wrapper text-left">
-        <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
-            <div class="col-lg-8 col-md-10 col-xs-12">
+<div class="col-lg-8 col-md-10 col-xs-12">
                 <article class="row post">
-                    {% if include.isStaticPost == false %}
+                    
                     <div class="post-header">
                         <div class="published col-md-6 col-xs-6 pull-left">
                             <span class="caption">Posted:</span>
-                            <span class="publish-date" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
+                            <span class="publish-date" itemprop="datePublished">Jul 21, 2014</span>
                         </div>
                         <div class="share col-md-6 col-xs-6 pull-right">
                             <ul class="social-links">
-                            {% assign postUrl = page.url | prepend: site.baseurl | prepend: site.url %} 
+                             
                                 <li>
-                                    <a href="#" onclick="window.open('https://plus.google.com/share?url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
+                                    <a href="#" onclick="window.open('https://plus.google.com/share?url=http://gdg-x.github.io/zeppelin/blog/call-for-papers', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-google-plus" viewBox="0 0 30 32">
-                                            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-google-plus"></use>
+                                            <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-google-plus"></use>
                                         </svg>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" onclick="window.open('https://twitter.com/home?status={{ postUrl }}', 'newwindow', 'width=600, height=250'); return false;">
+                                    <a href="#" onclick="window.open('https://twitter.com/home?status=http://gdg-x.github.io/zeppelin/blog/call-for-papers', 'newwindow', 'width=600, height=250'); return false;">
                                         <svg class="icon icon-twitter" viewBox="0 0 30 32">
-                                            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
+                                            <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-twitter"></use>
                                         </svg>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
+                                    <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://gdg-x.github.io/zeppelin/blog/call-for-papers', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-facebook" viewBox="0 0 30 32">
-                                            <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-facebook"></use>
+                                            <use xlink:href="/zeppelin/img/sprites/sprites.svg#icon-facebook"></use>
                                         </svg>
                                     </a>
                                 </li>
                             </ul>
                         </div>
                     </div>
-                    {% endif %}
                     
-                    <div class="post-body">{{ content }}</div>
+                    
+                    <div class="post-body"><p>GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.</p>
+
+<h4 id="presenters--who-should-speak-at-the-devfest-conference">Presenters – who should speak at the DevFest Conference?</h4>
+
+<ul>
+  <li>developers (freelance and hired)</li>
+  <li>companies developing software (apps, tools, frameworks etc.)</li>
+  <li>research institutions with Google relevant activities</li>
+  <li>companies, organisations and individuals using Google technologies</li>
+</ul>
+
+<p>If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br></p>
+
+<h4 id="themes-and-topics--what-do-we-expect">Themes and topics – what do we expect?</h4>
+<p>Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.</p>
+
+<h5 id="android">Android</h5>
+
+<p><strong>Google I/O 2014</strong></p>
+
+<ul>
+  <li>Material Design</li>
+  <li>Migration to ART</li>
+  <li>New Android Camera API</li>
+  <li>New Job Scheduler</li>
+  <li>Storage Access Framework</li>
+  <li>Elevation &amp; Clipping</li>
+</ul>
+
+<p><strong>General</strong></p>
+
+<ul>
+  <li>Android Continuous Integration</li>
+  <li>Loaders, Cursor Adapters</li>
+  <li>Android Animations</li>
+  <li>Patterns in Android development</li>
+</ul>
+
+<h5 id="web">Web</h5>
+
+<ul>
+  <li>AngularJS (1x and 2.0)</li>
+  <li>Dart (AngularDart, server-side)</li>
+  <li>Polymer and WebComponents</li>
+  <li>Material Design in Web</li>
+  <li>ChromeOS (apps development)</li>
+  <li>Web Performance (tools, techniques, approaches)</li>
+</ul>
+
+<h5 id="cloud">Cloud</h5>
+
+<ul>
+  <li>Google Cloud Platform
+    <ul>
+      <li>Compute Engine</li>
+      <li>App Engine</li>
+      <li>Storages (SQL, NoSQL, BigData)</li>
+      <li>APIs</li>
+    </ul>
+  </li>
+  <li>Go (as a language for a Cloud Ready Apps)</li>
+</ul>
+
+<h4 id="please-submit-your-proposals-herehttpbitlydfua-c4p">Please submit your proposals <a href="http://bit.ly/dfua-c4p">here</a>.</h4>
+<p><strong>Deadline</strong> is September 1, 2014</p>
+
+<p><strong>Please note:</strong> There is no guarantee that a submission will be put onto the conference agenda!<br></p>
+
+<p>The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br></p>
+
+<h4 id="any-questions">Any questions?</h4>
+<p>Email organizers at <a href="mailto:devfest@gdg.org.ua">devfest@gdg.org.ua</a></p>
+</div>
 
                     <div id="page-navigation" class="page-navigation">
                         <div class="next col-xs-6">
-                            {% if page.next.url %}
-                                <a href="{{ page.next.url | prepend: site.baseurl }}" title="{{ page.next.title | strip_html }}">&laquo; {{page.next.title | strip_html | truncate: 15 }}</a>
-                            {% endif %}
+                            
                         </div>
                         <div class="previous col-xs-6 text-right">
-                            {% if page.previous.url %}
-                                <a href="{{ page.previous.url | prepend: site.baseurl }}" title="{{ page.previous.title | strip_html }}">{{page.previous.title | strip_html | truncate: 15 }} &raquo;</a>
-                            {% endif %}
+                            
+                                <a href="/zeppelin/blog/hello-world" title="Hello World!">Hello World! »</a>
+                            
                         </div>
                     </div>
-
-                    {% if include.isStaticPost == false %}
-                        <div class="comments">
-                            {% if site.blogCommentsEnabled %} {% include disqus-comments.html %} {% endif %}
-                        </div>
-                    {% endif %}
+                                        
 
                 </article>
 
-                {% if include.isStaticPost == false %}
+                
                     <div class="row text-center">
-                        <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
+                        <p class="rss-subscribe">Subscribe <a href="/zeppelin/feed.xml" target="_blank">via RSS</a>
                         </p>
                     </div>
-                {% endif %}
+                
 
             </div>
-        </div>
-    </div>
-</section>
-<!-- End Post -->
