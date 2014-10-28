@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG Hi Pic"
 email: "faubourgnumerique@gmail.com"
 description: "Faubourg Numérique organise une journée \"Services & Objets Connectés\" le 15 Octobre à Saint-Quentin."
-baseurl: "/zepplin"
+baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
