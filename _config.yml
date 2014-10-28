@@ -23,7 +23,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdg-hi-pic.appspot.com/"
 
 # Heads
-metaKeywords: "objets, gdg, auto, google, programmation, android, wear, developers, picardie"
+metaKeywords: "objets, gdg, connectes, google, programmation, android, wear, developers, picardie"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -31,7 +31,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "mailto:maxime.mularz@4planet.eu"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
@@ -52,7 +52,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: ""
 eventDate: "Valenciennes, 28 Novembre 2014"
-typeoutTextValues: '"Android Wear", "Polymer","Android Auto","Google Car"'
+typeoutTextValues: '"Android Wear", "Google Glass","Android Auto","Google Maps"'
 typeoutFallback: "GDG"
 heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Inscriptions"}
