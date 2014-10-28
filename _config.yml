@@ -52,7 +52,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: ""
 eventDate: "Valenciennes, 28 Novembre 2014"
-typeoutTextValues: '"Android Wear", "Google Glass","Android Auto","Google Maps"'
+typeoutTextValues: '"Android Auto", "Polymer","Android Wear","Google Maps"'
 typeoutFallback: "GDG"
 heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Inscriptions"}
