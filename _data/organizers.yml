@@ -1,7 +1,7 @@
 - 
-  group: "Principaux organisateur"
+  group: ""
   elements: 
+    - {name: "Transalley", description: "Le cluster des mobilités innovantes et durables", link: "http://www.transalley.com", imageUrl: "Logo_transalley.jpg"}
+    - {name: "Valenciennes Métropôle", description: "Valenciennes Métropôle", link: "http://www.valenciennes-metropole.fr/", imageUrl: "logo_va_metropole.png"}
     - {name: "GDG HiPic", description: "La communauté Google Developer Group de Picardie", link: "https://plus.google.com/u/0/b/113891110741520781629/113891110741520781629/posts", imageUrl: "logoGDG.png"}
     - {name: "Faubourg Numérique", description: "Faubourg Numérique", link: "http://faubourgnumerique.com", imageUrl: "logoFgNum.png"}
-    - {name: "Transalley", description: "Le cluster des mobilités innovantes et durables", link: "http://www.transalley.com", imageUrl: "Logo_transalley.png"}
-    - {name: "Valenciennes Métropôle", description: "Valenciennes Métropôle", link: "http://www.valenciennes-metropole.fr/", imageUrl: "logo_va_metropole.png"}
