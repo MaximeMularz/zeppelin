@@ -6,6 +6,4 @@
 - 
   group: "Avec le soutien de"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "200px"}
-    - {name: "Valenciennes", description: "Valenciennes Métropôle", link: "http://www.valenciennes-metropole.fr/", imageUrl: "logo_va_metropole.png", width: "200px"}
-    - {name: "ENSIAME", description: "École nationale supérieure d'ingénieurs en informatique automatique mécanique énergétique électronique", link: "http://www.univ-valenciennes.fr/ensiame/page-daccueil-ensiame", imageUrl: "ensiame.png", width: "200px"}
+     - {name: "ENSIAME", description: "École nationale supérieure d'ingénieurs en informatique automatique mécanique énergétique électronique", link: "http://www.univ-valenciennes.fr/ensiame/page-daccueil-ensiame", imageUrl: "ensiame.png", width: "200px"}
