@@ -1,5 +1,5 @@
 - 
-  group: ""
+  group: "Organisateurs"
   elements: 
     - {name: "Transalley", description: "Le cluster des mobilités innovantes et durables", link: "http://www.transalley.com", imageUrl: "Logo_transalley.jpg"}
     - {name: "Valenciennes Métropôle", description: "Valenciennes Métropôle", link: "http://www.valenciennes-metropole.fr/", imageUrl: "logo_va_metropole.png"}
