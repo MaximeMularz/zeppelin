@@ -66,7 +66,7 @@
                 mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
                 icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
             }
-            var twitterFeedUrl = '{{ site.twitterFeed }}';
+            var twitterFeedUrl;
             $(document).ready(function () {
                 $(function () {
                     if ($(window).width() > 767) {
