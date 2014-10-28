@@ -1,22 +1,22 @@
 - 
   id: 1
-  name: "Thierry"
-  surname: "Nagellen"
-  company: "Orange Labs Products & Services"
-  title: "Program Manager Future Internet"
+  name: "Alexis"
+  surname: "Moussine-Pouchkine"
+  company: "Google"
+  title: "Google Advocate"
   bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: tna.jpg
+  thumbnailUrl: alexis.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
   id: 4
-  name: "Vincent"
-  surname: "Demortier"
-  company: "4PLanet SAS"
-  title: "Dirigeant"
+  name: "Didier"
+  surname: "Girard"
+  company: "Sfeir"
+  title: "Google Developer Expert"
   bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: vincent.jpg
+  thumbnailUrl: didier.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -24,12 +24,12 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
-  name: "Xavier"
-  surname: "Hallade"
-  company: "Intel"
+  name: "Damien"
+  surname: "Cavaillès"
+  company: "Ikomobi"
   title: "Software Engineer"
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: intel.jpg
+  thumbnailUrl: damien.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -39,12 +39,12 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
-  name: "Maxime"
-  surname: "Mularz"
-  company: "Google Developer Group"
-  title: "Developer Java"
+  name: "Stéphane"
+  surname: "Derville"
+  company: "Eliocity"
+  title: "Directeur général"
   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: maxime.jpg
+  thumbnailUrl: derville.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -53,12 +53,12 @@
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "David"
-  surname: "Zanfack"
-  company: "Doctorant UPJV-INSSET - Projet ComSLoT"
-  title: "Doctorant"
+  name: "Atika"
+  surname: "Rivenq"
+  company: "IEMN-DOAE UVHC"
+  title: "Directrice Recherche"
   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: david.png
+  thumbnailUrl: atika.png
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}

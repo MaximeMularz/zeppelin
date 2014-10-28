@@ -51,15 +51,15 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: ""
-eventDate: "Picardie>Aisne>Saint-Quentin, 15 Octobre 2014"
-typeoutTextValues: '"Android Wear", "Intel NDK","Galileo","Fi-Ware"'
+eventDate: "Valenciennes, 28 Novembre 2014"
+typeoutTextValues: '"Android Wear", "Google Glass","Galileo","Fi-Ware"'
 typeoutFallback: "GDG"
 heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Inscriptions"}
- - {permalink: "https://www.eventbrite.fr/e/billets-journee-systemes-objets-connectes-13025980057", text: "Inscriptions"}
+ - {permalink: "http://www.eventbrite.fr/e/billets-google-devfest-vehicule-connecte-valenciennes-metropole-13851980647", text: "Inscriptions"}
 
 # About Block
-aboutTitle: "Journée \"Services & Objets Connectés\" "
+aboutTitle: "DevFest 2014"
 aboutBlock:
  - {title: "Conférences", image: "conference.jpg", text: "Intel NDK" }
  - {title: "Ateliers", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -84,19 +84,19 @@ rockstarSpeakersTitle: "Intervenants"
 
 # Location Block
 locationBlockTitle: "Lieu"
-eventLocationName: "CCI de l'Aisne"
-eventLocationLink: "http://www.aisne.cci.fr/"
-eventStreetAddress: "83 Boulevard Jean Bouin"
-eventAddressLocality: "Saint-Quentin"
-eventAddressLocalityRegion: "Aisne"
-eventPostalCode: "02100"
+eventLocationName: "ENSIAME, Université de Valenciennes et du Hainaut-Cambrésis"
+eventLocationLink: "http://www.univ-valenciennes.fr/ensiame/page-daccueil-ensiame"
+eventStreetAddress: "Le Mont-Houy"
+eventAddressLocality: "Valenciennes"
+eventAddressLocalityRegion: "Nord"
+eventPostalCode: "59313"
 eventAddressCountry: "France"
-eventStartTime: "2014-15-25T10:00"
-eventDoorTime: "09:00"
+eventStartTime: "2014-15-25T10:30"
+eventDoorTime: "11:00"
 eventEndTime: "2014-10-25T18:00"
-eventPlaceCoordinates: "49.850780, 3.309139"
-mapCenterCoordinates: "49.850780, 3.309139"
-mapMobileCenterCoordinates: "49.850780, 3.309139"
+eventPlaceCoordinates: "50.328527905272246, 3.5145670846557095"
+mapCenterCoordinates: "50.328527905272246, 3.5145670846557095"
+mapMobileCenterCoordinates: "50.328527905272246, 3.5145670846557095"
 
 # Venue Block
 venueBlockTitle: "Localisation"
@@ -104,7 +104,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "cci-aisne-logo.gif"
 venueSmallImage2: "cci-aisne-1.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "CCI de l'Aisne"
+venueTitle: "ENSIAME, Université de Valenciennes et du Hainaut-Cambrésis"
 venueFeatures: ["3 salles de conférences", "proximité du centre ville"]
 
 # Tweets Feed Block
