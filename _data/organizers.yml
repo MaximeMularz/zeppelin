@@ -2,4 +2,4 @@
   group: "Principaux organisateur"
   elements: 
     - {name: "GDG HiPic", description: "La communauté Google Developer Group de Picardie", link: "http://lviv.gdg.org.ua", imageUrl: "logoGDG.png"}
-    - {name: "GDG HiPic", description: "La communauté Google Developer Group de Picardie", link: "http://lviv.gdg.org.ua", imageUrl: "logoFgNum.png"}
+    - {name: "GDG HiPic", description: "Faubourg Numérique", link: "http://faubourgnumerique.com/", imageUrl: "logoFgNum.png"}
