@@ -1,11 +1,11 @@
 - 
-  group: "General sponsor"
+  group: "Sponsors"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "4PLanet", description: "4PLanet", link: "http://lviv.gdg.org.ua", imageUrl: "logo_4PL.png"}
 - 
   group: "Avec le soutien de"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
+    - {name: "Valenciennes", description: "Valenciennes Métropôle", link: "http://www.valenciennes-metropole.fr/", imageUrl: "logo_va_metropole.png", width: "120px"}
+    - {name: "ENSIAME", description: "École nationale supérieure d'ingénieurs en informatique automatique mécanique énergétique électronique", link: "http://www.univ-valenciennes.fr/ensiame/page-daccueil-ensiame", imageUrl: "ensiame.png", width: "120px"}
