@@ -101,11 +101,11 @@ mapMobileCenterCoordinates: "50.328527905272246, 3.5145670846557095"
 # Venue Block
 venueBlockTitle: "Localisation"
 venueBigImage: "venue_0.jpg"
-venueSmallImage1: "cci-aisne-logo.gif"
+venueSmallImage1: "ensiame.png"
 venueSmallImage2: "cci-aisne-1.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "ENSIAME, Université de Valenciennes et du Hainaut-Cambrésis"
-venueFeatures: ["3 salles de conférences", "proximité du centre ville"]
+venueTitle: "ENSIAME"
+venueFeatures: ["Université de Valenciennes et du Hainaut-Cambrésis"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
