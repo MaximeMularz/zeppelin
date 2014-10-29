@@ -5,8 +5,3 @@
     - {name: "4PLanet", description: "4PLanet", link: "#", imageUrl: "logo_4PL.png"}
     - {name: "ENSIAME", description: "École nationale supérieure d'ingénieurs en informatique automatique mécanique énergétique électronique", link: "http://www.univ-valenciennes.fr/ensiame/page-daccueil-ensiame", imageUrl: "ensiame.png"}
     - {name: "UVHC", description: "Université de Valenciennes", link: "http://www.univ-valenciennes.fr", imageUrl: "logo_UVHC.gif"}
-- 
-  group: "Avec le soutien de"
-  elements: 
-     - {name: "ENSIAME", description: "École nationale supérieure d'ingénieurs en informatique automatique mécanique énergétique électronique", link: "http://www.univ-valenciennes.fr/ensiame/page-daccueil-ensiame", imageUrl: "ensiame.png", width: "200px"}
-     - {name: "UVHC", description: "Université de Valenciennes", link: "http://www.univ-valenciennes.fr", imageUrl: "logo_UVHC.gif", width: "200px"}
