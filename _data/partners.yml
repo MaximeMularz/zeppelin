@@ -3,6 +3,8 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "4PLanet", description: "4PLanet", link: "#", imageUrl: "logo_4PL.png"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "4PLanet", description: "4PLanet", link: "#", imageUrl: "logo_4PL.png"}
 - 
   group: "Avec le soutien de"
   elements: 
