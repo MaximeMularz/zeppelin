@@ -3,8 +3,8 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "4PLanet", description: "4PLanet", link: "#", imageUrl: "logo_4PL.png"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "ensiame.png"}
-    - {name: "4PLanet", description: "4PLanet", link: "#", imageUrl: "logo_UVHC.gif"}
+    - {name: "ENSIAME", description: "École nationale supérieure d'ingénieurs en informatique automatique mécanique énergétique électronique", link: "", imageUrl: "ensiame.png"}
+    - {name: "UVHC", description: "Université de Valenciennes", link: "#", imageUrl: "logo_UVHC.gif"}
 - 
   group: "Avec le soutien de"
   elements: 
